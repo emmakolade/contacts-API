@@ -1,6 +1,6 @@
 # ContactList-API
 
-Contalist API is a RESTful API that allows you to manage and access a list of contacts. With this API, you can perform CRUD (Create, Read, Update, and Delete) operations on your contacts.
+Contalist API is a RESTful API that allows user to manage and access a list of contacts. With this API, you can perform CRUD (Create, Read, Update, and Delete) operations on your contacts.
 
 ## Features
 Register and Login
